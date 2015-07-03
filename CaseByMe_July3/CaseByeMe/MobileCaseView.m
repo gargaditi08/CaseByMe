@@ -161,6 +161,8 @@
         [self.delegate performSelector:@selector(didSelectCase:) withObject:[NSNumber numberWithInteger:currentRowTag]];
     }
     
+    NSLog(@"Aditi Code");
+
 }
 
 

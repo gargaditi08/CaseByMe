@@ -28,6 +28,8 @@
       NSFontAttributeName,
       nil]];
     
+    NSLog(@"Aditi Code");
+    
     return [[FBSDKApplicationDelegate sharedInstance] application:application
                                     didFinishLaunchingWithOptions:launchOptions];
 }
